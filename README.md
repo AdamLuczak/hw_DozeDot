@@ -40,5 +40,4 @@ The *DozeDot* project is made available under the MIT License, which means you a
 For the full terms and conditions, please refer to the MIT License documentation.
 
 ## Contact
-For any inquiries or suggestions about the *Drzemiąca Kropka* project, please feel free to contact Adam Łuczak at adam.luczak@outlook.com.
-"""
+For any inquiries or suggestions about the *Drzemiąca Kropka* project, please feel free to contact Adam Łuczak at adam.luczak@outlook.com
