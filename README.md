@@ -23,10 +23,11 @@ The ATTiny816 at the heart of DozeDot offers 8 KB of Flash memory, 512 bytes of 
   ![Schematic Diagram](media/sch.png)
 
 ### Physical Board Images
-- **Photo - Top View**:
-  ![Photo - Top View](media/photo_top.png)
-- **Photo - Bottom View**:
-  ![Photo - Bottom View](media/photo_bottom.png)
+### Physical Board Images
+<p float="left">
+  <img src="media/photo_top.png" alt="Photo - Top View" width="300" />
+  <img src="media/photo_bottom.png" alt="Photo - Bottom View" width="300" />
+</p>
 
 ## License
 The *DozeDot* project is made available under the MIT License, which means you are free to use, modify, and distribute it in both private and commercial applications.
