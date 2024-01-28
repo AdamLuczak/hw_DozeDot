@@ -10,6 +10,24 @@ The *DozeDot* is a compact and versatile module featuring the ATTiny816 microcon
 
 The ATTiny816 at the heart of DozeDot offers 8 KB of Flash memory, 512 bytes of SRAM, and 128 bytes of EEPROM, making it capable of handling a variety of tasks while maintaining low power consumption. Its 20 MHz maximum clock speed ensures responsive performance in applications requiring quick wake-up and processing.
 
+## Design Details
+
+### PCB Layout
+- **Top View**: 
+  ![Top View of PCB](media/top.png)
+- **Bottom View**: 
+  ![Bottom View of PCB](media/bottom.png)
+
+### Schematic
+- **Schematic Diagram**:
+  ![Schematic Diagram](media/sch.png)
+
+### Physical Board Images
+- **Photo - Top View**:
+  ![Photo - Top View](media/photo_top.png)
+- **Photo - Bottom View**:
+  ![Photo - Bottom View](media/photo_bottom.png)
+
 ## License
 The *DozeDot* project is made available under the MIT License, which means you are free to use, modify, and distribute it in both private and commercial applications.
 
